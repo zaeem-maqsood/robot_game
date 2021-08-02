@@ -5,11 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="017d049f-6347-4cc6-ac24-fdc85522c820" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/frontend/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/build/static/js/main.57a528a8.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/build/static/js/main.57a528a8.chunk.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/core/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/generator/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/helper-create-class-features-plugin/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/helper-create-class-features-plugin/node_modules/@babel/core/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/highlight/node_modules/ansi-styles/.readme 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/highlight/node_modules/chalk/.index.js 2.flow.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/highlight/node_modules/chalk/.readme 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/highlight/node_modules/escape-string-regexp/.readme 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/parser/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-proposal-async-generator-functions/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-proposal-class-properties/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-proposal-dynamic-import/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-proposal-export-namespace-from/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-proposal-json-strings/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-proposal-logical-assignment-operators/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-proposal-numeric-separator/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-proposal-object-rest-spread/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-proposal-optional-catch-binding/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-proposal-unicode-property-regex/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-syntax-async-generators/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-syntax-class-properties/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-syntax-dynamic-import/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-syntax-export-namespace-from/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-syntax-jsx/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-syntax-logical-assignment-operators/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-syntax-nullish-coalescing-operator/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-syntax-object-rest-spread/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-syntax-optional-chaining/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-syntax-top-level-await/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-transform-arrow-functions/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-transform-async-to-generator/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-transform-block-scoped-functions/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-transform-block-scoping/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/plugin-transform-classes/.README 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/arity-n/..travis 2.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/chrome-trace-event/.CHANGES 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/multicast-dns-service-types/..travis 2.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/next-tick/..travis 2.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/require-directory/..travis 2.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/requires-port/..travis 2.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/resolve-url/.changelog 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/resolve/.SECURITY 2.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/retry/..travis 2.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/reusify/..travis 2.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/uniqs/..travis 2.yml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/workbox-strategies/.._version.d 2.ts.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/workbox-strategies/.README 2.md.icloud" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/components/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Game.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/components/Leaderboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Leaderboard.js" afterDir="false" />
     </list>
@@ -47,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627881307278</updated>
-      <workItem from="1627881314122" duration="1306000" />
+      <workItem from="1627881314122" duration="1849000" />
     </task>
     <servers />
   </component>
