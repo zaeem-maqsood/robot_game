@@ -10,7 +10,7 @@ function Leaderboard() {
   const [scores, setScores] = useState([]);
 
   useEffect(() => {
-    const apiUrl = "scores/api/";
+    const apiUrl = "scores/";
     axios
       .get(apiUrl)
       .then((response) => {

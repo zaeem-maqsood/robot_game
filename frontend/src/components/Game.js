@@ -60,7 +60,7 @@ function Game() {
   const [time, setTime] = useState([60]);
 
   useEffect(() => {
-    const apiUrl = "scores/api/current-highest-score";
+    const apiUrl = "scores/current-highest-score";
     axios
       .get(apiUrl)
       .then((response) => {
@@ -173,7 +173,7 @@ function Game() {
     } else {
       console.log("Submit Name");
       setError("");
-      const apiUrl = "scores/api/set-score";
+      const apiUrl = "scores/set-score";
       axios
         .post(apiUrl, {
           params: {
