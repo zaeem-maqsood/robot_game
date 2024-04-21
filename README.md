@@ -1,3 +1,3 @@
 
 # robot_game
-Please use `docker-compose up` to run the application on localhost via docker
+A simple Robot game using Django in the backend to keep track fo the score and React on the frontend
